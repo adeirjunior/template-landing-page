@@ -1,2 +1,2 @@
-# exemple site
+# Template Site
  
